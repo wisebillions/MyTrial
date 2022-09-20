@@ -1,7 +1,7 @@
 name: labels issues
 on: 
    issues: 
-       types: 
+    types: 
        - reopened
        - opened
  jobs: 
